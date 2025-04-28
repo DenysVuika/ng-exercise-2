@@ -11,7 +11,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 - integrate [Angular Material](https://material.angular.io/) components with the project
 - integrate [Material Theming](https://material.angular.io/guide/theming#using-a-pre-built-theme) for the components
 - integrate the [Toolbar](https://material.angular.io/components/toolbar/overview) component to the app home page
-- integrate the [Tabs](https://material.angular.io/components/tabs/overview) component that takes the whole space on the page
+- integrate the [Tabs](https://material.angular.io/components/tabs/overview) component that takes the main content
 
 ### Part 2
 
